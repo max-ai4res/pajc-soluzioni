@@ -1,0 +1,3 @@
+Un pool e' una coda piu' un gruppo di thread che eseguono tutti lo stesso ciclo: estrai
+un compito, eseguilo, ricomincia. Chi chiama submit non aspetta nessuno; chi esegue non
+sa chi ha mandato il compito. Quanti thread? Dipende da che cosa fanno i compiti.

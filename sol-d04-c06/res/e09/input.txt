@@ -1,0 +1,9 @@
+Un pool e' una coda piu' un gruppo di thread che eseguono tutti lo stesso ciclo: estrai
+un compito, eseguilo, ricomincia. Chi chiama submit non aspetta nessuno; chi esegue non
+sa chi ha mandato il compito. Quanti thread? Dipende da che cosa fanno i compiti.
+Il monitor non serve solo a escludere: serve anche ad aspettare che lo stato diventi
+quello giusto. Un produttore mette elementi in un buffer, un consumatore li prende; il
+produttore deve aspettare quando il buffer e' pieno, il consumatore quando e' vuoto.
+Un thread e' un flusso di esecuzione dentro un processo. Ogni processo ne ha almeno uno,
+quello che esegue main; puo' crearne altri, e tutti condividono lo stesso spazio di
+indirizzamento. Cio' che ogni thread ha di suo e' il minimo indispensabile per avanzare.

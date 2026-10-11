@@ -1,0 +1,3 @@
+Il monitor non serve solo a escludere: serve anche ad aspettare che lo stato diventi
+quello giusto. Un produttore mette elementi in un buffer, un consumatore li prende; il
+produttore deve aspettare quando il buffer e' pieno, il consumatore quando e' vuoto.

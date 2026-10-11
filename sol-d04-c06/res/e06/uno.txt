@@ -1,0 +1,3 @@
+Un thread e' un flusso di esecuzione dentro un processo. Ogni processo ne ha almeno uno,
+quello che esegue main; puo' crearne altri, e tutti condividono lo stesso spazio di
+indirizzamento. Cio' che ogni thread ha di suo e' il minimo indispensabile per avanzare.
