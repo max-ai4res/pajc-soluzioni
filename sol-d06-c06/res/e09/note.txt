@@ -1,0 +1,1 @@
+Un file di testo servito da ServerFile.

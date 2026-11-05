@@ -1,0 +1,5 @@
+Qual e' la capitale d'Italia?|Roma
+Quanto fa 7 per 8?|56
+In che anno e' nato Java (prima versione pubblica)?|1995
+Quale metodo di ServerSocket aspetta un client?|accept
+Quanti bit ha un indirizzo IPv4?|32
