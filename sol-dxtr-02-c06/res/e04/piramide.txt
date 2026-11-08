@@ -1,0 +1,15 @@
+# una piramide di piombo con le bolle sopra
+mondo 8 6
+ostacolo 2.0 1.0 4.0 0.2
+pallina 3.0 1.5 0.3 piombo
+pallina 3.6 1.5 0.3 piombo
+pallina 4.2 1.5 0.3 piombo
+pallina 4.8 1.5 0.3 piombo
+pallina 3.3 2.1 0.3 piombo
+pallina 3.9 2.1 0.3 piombo
+pallina 4.5 2.1 0.3 piombo
+pallina 3.6 2.7 0.3 piombo
+pallina 4.2 2.7 0.3 piombo
+pallina 3.9 3.3 0.3 piombo
+pallina 2.0 5.5 0.25 bolla
+pallina 6.0 5.5 0.25 bolla

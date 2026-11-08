@@ -1,0 +1,10 @@
+# una fila di palline di gomma in alto
+mondo 8 6
+pallina 0.5 5.5 0.15 gomma
+pallina 1.5 5.7 0.15 gomma
+pallina 2.5 5.4 0.15 gomma
+pallina 3.5 5.8 0.15 gomma
+pallina 4.5 5.5 0.15 gomma
+pallina 5.5 5.6 0.15 gomma
+pallina 6.5 5.3 0.15 gomma
+pallina 7.5 5.7 0.15 gomma

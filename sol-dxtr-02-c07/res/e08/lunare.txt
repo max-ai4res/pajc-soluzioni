@@ -1,0 +1,6 @@
+# la gravita della Luna
+mondo 8 6
+gravita 1.62
+pallina 2 5 0.25 gomma
+pallina 4 4 0.35 piombo
+pallina 6 5 0.25 bolla

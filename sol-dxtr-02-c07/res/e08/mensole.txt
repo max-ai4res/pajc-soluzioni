@@ -1,0 +1,4 @@
+# due mensole, nessuna pallina
+mondo 8 6
+ostacolo 1.0 3.0 2.5 0.2
+ostacolo 4.5 1.8 2.5 0.2

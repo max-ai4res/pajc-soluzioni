@@ -1,0 +1,9 @@
+# una forma per riga: nome e misure
+Circle 2.5
+Rectangle 3 4
+Square 2
+Triangle 3 4 5
+Circle 1 2
+String 3
+Rectangle tre 4
+Circle 3

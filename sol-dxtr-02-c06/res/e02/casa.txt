@@ -1,0 +1,6 @@
+# una casa e un albero, in metri
+rettangolo 1.0 0.0 2.0 1.5
+poligono 0.8 1.5 2.0 2.6 3.2 1.5
+rettangolo 1.8 0.0 0.5 0.9
+cerchio 6.0 2.2 0.8
+rettangolo 5.85 0.0 0.3 1.5
