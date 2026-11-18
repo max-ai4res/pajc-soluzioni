@@ -1,0 +1,6 @@
+temperatura 21
+pressione 1013
+credito 2000000000
+quota 450
+debito -2000000000
+umidita 65

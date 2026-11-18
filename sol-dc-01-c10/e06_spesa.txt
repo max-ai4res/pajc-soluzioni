@@ -1,0 +1,10 @@
+pane 2
+latte 1
+mele 6
+biscottiIntegraliAlCioccolato 2
+uova zero
+caffe 1
+pomodori 4
+yogurt 3
+acqua 6
+detersivoPerLavastoviglie 1
